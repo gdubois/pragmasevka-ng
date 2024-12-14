@@ -19,7 +19,7 @@ font: ## Run all build steps in correct order
 
 ttf: ## Build ttf font from `Pragmasevka` custom configuration
 	docker run --rm \
-		-v pragmasevka-volume:/builder/dist/pragmasevka/ttf \
+		-v pragmasevka-volume:/builder/dist/pragmasevka/TTF \
 		-v $(CURDIR)/private-build-plans.toml:/builder/private-build-plans.toml \
 		iosevka/builder \
 		npm run build -- ttf::pragmasevka
