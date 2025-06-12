@@ -1,6 +1,7 @@
 # Pragmasevka-NG Font
 
-Taking over from the great work of @shytikov with Pragmasevka that has unfortunately not been updated for over a year.
+This was a temporary follow-up to the great work of @shytikov with Pragmasevka that had unfortunately not been updated for over a year.
+The original repo has now been recently updated, so there shouldn't be any need for this any more. 
 
 Here is comparison with PragmataPro (black, the image taken from [Wikipedia](https://en.wikipedia.org/wiki/PragmataPro)):
 
